@@ -1,0 +1,2 @@
+# Cypher
+XOR šifra
